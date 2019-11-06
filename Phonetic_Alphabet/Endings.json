@@ -1,0 +1,156 @@
+{
+    "TU": {
+        "Letter": "TU",
+        "Type": "ENDING",
+        "Starting_Row": 7,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "TION": {
+        "Letter": "TION",
+        "Type": "ENDING",
+        "Starting_Row": 7,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "TURE": {
+        "Letter": "TURE",
+        "Type": "ENDING",
+        "Starting_Row": 7,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "STLE": {
+        "Letter": "STLE",
+        "Type": "ENDING",
+        "Starting_Row": 8,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "SION": {
+        "Letter": "SION",
+        "Type": "ENDING",
+        "Starting_Row": 8,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "IVE": {
+        "Letter": "IVE",
+        "Type": "ENDING",
+        "Starting_Row": 8,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "ILD": {
+        "Letter": "ILD",
+        "Type": "ENDING",
+        "Starting_Row": 9,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "IND": {
+        "Letter": "IND",
+        "Type": "ENDING",
+        "Starting_Row": 9,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "OLD": {
+        "Letter": "OLD",
+        "Type": "ENDING",
+        "Starting_Row": 10,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "OLT": {
+        "Letter": "OLT",
+        "Type": "ENDING",
+        "Starting_Row": 10,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "OST": {
+        "Letter": "OST",
+        "Type": "ENDING",
+        "Starting_Row": 10,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "AN": {
+        "Letter": "AN",
+        "Type": "ENDING",
+        "Starting_Row": 11,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "AM": {
+        "Letter": "AM",
+        "Type": "ENDING",
+        "Starting_Row": 11,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "ALL": {
+        "Letter": "ALL",
+        "Type": "ENDING",
+        "Starting_Row": 11,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "ANK": {
+        "Letter": "ANK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "INK": {
+        "Letter": "INK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "ONK": {
+        "Letter": "ONK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "UNK": {
+        "Letter": "UNK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "ANG": {
+        "Letter": "ANG",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "UNG": {
+        "Letter": "UNG",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "ING": {
+        "Letter": "ING",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "ONG": {
+        "Letter": "ONG",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 3,
+        "Default": true
+    }
+}

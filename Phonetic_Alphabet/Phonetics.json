@@ -1,0 +1,632 @@
+{
+    "A": {
+        "Letter": "A",
+        "Type": "VOWEL",
+        "Starting_Row": 0,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "B": {
+        "Letter": "B",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "C": {
+        "Letter": "C",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "D": {
+        "Letter": "D",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "E": {
+        "Letter": "E",
+        "Type": "VOWEL",
+        "Starting_Row": 0,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "F": {
+        "Letter": "F",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "F_REPEAT": {
+        "Letter": "F",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 6,
+        "Default": true
+    },
+    "G": {
+        "Letter": "G",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "H": {
+        "Letter": "H",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "I": {
+        "Letter": "I",
+        "Type": "VOWEL",
+        "Starting_Row": 1,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "J": {
+        "Letter": "J",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "K": {
+        "Letter": "K",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "L": {
+        "Letter": "L",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "L_REPEAT": {
+        "Letter": "L",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 6,
+        "Default": true
+    },
+    "M": {
+        "Letter": "M",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "N": {
+        "Letter": "N",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "O": {
+        "Letter": "O",
+        "Type": "VOWEL",
+        "Starting_Row": 2,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "P": {
+        "Letter": "P",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "Qu": {
+        "Letter": "Qu",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "R": {
+        "Letter": "R",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "S": {
+        "Letter": "S",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 6,
+        "Default": true
+    },
+    "S_REPEAT": {
+        "Letter": "S",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 7,
+        "Default": true
+    },
+    "T": {
+        "Letter": "T",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "U": {
+        "Letter": "U",
+        "Type": "VOWEL",
+        "Starting_Row": 3,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "V": {
+        "Letter": "V",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "W": {
+        "Letter": "W",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "X": {
+        "Letter": "X",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "Y": {
+        "Letter": "Y",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "Y_REPEAT": {
+        "Letter": "Y",
+        "Type": "VOWEL",
+        "Starting_Row": 3,
+        "Starting_Column": 6,
+        "Default": true
+    },
+    "Z": {
+        "Letter": "Z",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 7,
+        "Default": true
+    },
+    "AI": {
+        "Letter": "AI",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 0,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "AY": {
+        "Letter": "AY",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 0,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "EA": {
+        "Letter": "EA",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 1,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "EE": {
+        "Letter": "EE",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 1,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "EY": {
+        "Letter": "EY",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 1,
+        "Starting_Column": 12,
+        "Default": true
+    },
+    "OA": {
+        "Letter": "OA",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 2,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "OE": {
+        "Letter": "OE",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 2,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "UE": {
+        "Letter": "UE",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 2,
+        "Starting_Column": 12,
+        "Default": true
+    },
+    "OI": {
+        "Letter": "OI",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 3,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "OY": {
+        "Letter": "OY",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 3,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "AU": {
+        "Letter": "AU",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 4,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "AW": {
+        "Letter": "AW",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 4,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "OU": {
+        "Letter": "OU",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 5,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "OW": {
+        "Letter": "OW",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 5,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "EW": {
+        "Letter": "EW",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 6,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "EU": {
+        "Letter": "EU",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 6,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "OO": {
+        "Letter": "OO",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 6,
+        "Starting_Column": 12,
+        "Default": true
+    },
+    "UI": {
+        "Letter": "UI",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 7,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "EI": {
+        "Letter": "EI",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 8,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "IE": {
+        "Letter": "IE",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 8,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "EIGH": {
+        "Letter": "EIGH",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 9,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "IGH": {
+        "Letter": "IGH",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 9,
+        "Starting_Column": 11,
+        "Default": true
+    },
+    "AR": {
+        "Letter": "AR",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 10,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "ER": {
+        "Letter": "ER",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 11,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "IR": {
+        "Letter": "IR",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 12,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "OR": {
+        "Letter": "OR",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 13,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "UR": {
+        "Letter": "UR",
+        "Type": "VOWEL_SOUND",
+        "Starting_Row": 14,
+        "Starting_Column": 10,
+        "Default": true
+    },
+    "WH": {
+        "Letter": "WH",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 4,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "TH": {
+        "Letter": "TH",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 4,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "SH": {
+        "Letter": "SH",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 4,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "CH": {
+        "Letter": "CH",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 4,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "CK": {
+        "Letter": "CK",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 4,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "TCH": {
+        "Letter": "TCH",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 5,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "CI": {
+        "Letter": "CI",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 5,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "DGE": {
+        "Letter": "DGE",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 5,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "TI": {
+        "Letter": "TI",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 6,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "QUE": {
+        "Letter": "QUE",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 6,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "PH": {
+        "Letter": "PH",
+        "Type": "CONSONANT_SOUND",
+        "Starting_Row": 6,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "TU": {
+        "Letter": "TU",
+        "Type": "ENDING",
+        "Starting_Row": 7,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "TION": {
+        "Letter": "TION",
+        "Type": "ENDING",
+        "Starting_Row": 7,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "TURE": {
+        "Letter": "TURE",
+        "Type": "ENDING",
+        "Starting_Row": 7,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "STLE": {
+        "Letter": "STLE",
+        "Type": "ENDING",
+        "Starting_Row": 8,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "SION": {
+        "Letter": "SION",
+        "Type": "ENDING",
+        "Starting_Row": 8,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "IVE": {
+        "Letter": "IVE",
+        "Type": "ENDING",
+        "Starting_Row": 8,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "ILD": {
+        "Letter": "ILD",
+        "Type": "ENDING",
+        "Starting_Row": 9,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "IND": {
+        "Letter": "IND",
+        "Type": "ENDING",
+        "Starting_Row": 9,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "OLD": {
+        "Letter": "OLD",
+        "Type": "ENDING",
+        "Starting_Row": 10,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "OLT": {
+        "Letter": "OLT",
+        "Type": "ENDING",
+        "Starting_Row": 10,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "OST": {
+        "Letter": "OST",
+        "Type": "ENDING",
+        "Starting_Row": 10,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "AN": {
+        "Letter": "AN",
+        "Type": "ENDING",
+        "Starting_Row": 11,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "AM": {
+        "Letter": "AM",
+        "Type": "ENDING",
+        "Starting_Row": 11,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "ALL": {
+        "Letter": "ALL",
+        "Type": "ENDING",
+        "Starting_Row": 11,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "ANK": {
+        "Letter": "ANK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "INK": {
+        "Letter": "INK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "ONK": {
+        "Letter": "ONK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "UNK": {
+        "Letter": "UNK",
+        "Type": "ENDING",
+        "Starting_Row": 12,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "ANG": {
+        "Letter": "ANG",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "UNG": {
+        "Letter": "UNG",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "ING": {
+        "Letter": "ING",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "ONG": {
+        "Letter": "ONG",
+        "Type": "ENDING",
+        "Starting_Row": 13,
+        "Starting_Column": 3,
+        "Default": true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "basic_bool": true,
+    "yellow_bool": true,
+    "green_bool": true,
+    "red_bool": true,
+    "y_toggle_count": 0,
+    "PIXEL_OFFSET": 40
+}

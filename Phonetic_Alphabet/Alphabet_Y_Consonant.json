@@ -1,0 +1,205 @@
+{
+    "A": {
+        "Letter": "A",
+        "Type": "VOWEL",
+        "Starting_Row": 0,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "B": {
+        "Letter": "B",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "C": {
+        "Letter": "C",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "D": {
+        "Letter": "D",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "E": {
+        "Letter": "E",
+        "Type": "VOWEL",
+        "Starting_Row": 0,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "F": {
+        "Letter": "F",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "F_REPEAT": {
+        "Letter": "F",
+        "Type": "CONSONANT",
+        "Starting_Row": 0,
+        "Starting_Column": 6,
+        "Default": true
+    },
+    "G": {
+        "Letter": "G",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "H": {
+        "Letter": "H",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "I": {
+        "Letter": "I",
+        "Type": "VOWEL",
+        "Starting_Row": 1,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "J": {
+        "Letter": "J",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "K": {
+        "Letter": "K",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "L": {
+        "Letter": "L",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "L_REPEAT": {
+        "Letter": "L",
+        "Type": "CONSONANT",
+        "Starting_Row": 1,
+        "Starting_Column": 6,
+        "Default": true
+    },
+    "M": {
+        "Letter": "M",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "N": {
+        "Letter": "N",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "O": {
+        "Letter": "O",
+        "Type": "VOWEL",
+        "Starting_Row": 2,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "P": {
+        "Letter": "P",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "Qu": {
+        "Letter": "Qu",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "R": {
+        "Letter": "R",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "S": {
+        "Letter": "S",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 6,
+        "Default": true
+    },
+    "S_REPEAT": {
+        "Letter": "S",
+        "Type": "CONSONANT",
+        "Starting_Row": 2,
+        "Starting_Column": 7,
+        "Default": true
+    },
+    "T": {
+        "Letter": "T",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 0,
+        "Default": true
+    },
+    "U": {
+        "Letter": "U",
+        "Type": "VOWEL",
+        "Starting_Row": 3,
+        "Starting_Column": 1,
+        "Default": true
+    },
+    "V": {
+        "Letter": "V",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 2,
+        "Default": true
+    },
+    "W": {
+        "Letter": "W",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 3,
+        "Default": true
+    },
+    "X": {
+        "Letter": "X",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 4,
+        "Default": true
+    },
+    "Y": {
+        "Letter": "Y",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 5,
+        "Default": true
+    },
+    "Z": {
+        "Letter": "Z",
+        "Type": "CONSONANT",
+        "Starting_Row": 3,
+        "Starting_Column": 6,
+        "Default": true
+    }
+}
