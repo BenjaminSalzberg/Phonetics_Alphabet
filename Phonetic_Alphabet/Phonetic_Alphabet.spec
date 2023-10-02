@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Phonetic_Alphabet.py'],
-             pathex=['D:\\Users\\Benjamin\\Documents\\Phonetic_Alphabet\\Phonetic_Alphabet'],
+             pathex=['./'],
              binaries=[],
              datas=[
              ('Settings.json', '.'),
